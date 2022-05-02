@@ -14,4 +14,5 @@ public class SumArray {
         }
         return sum;
     }
+//    проверка для гита
 }
